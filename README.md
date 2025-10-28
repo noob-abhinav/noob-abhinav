@@ -18,7 +18,7 @@
 - 🔭 I’m currently working with n00bzunit3d  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning php and python-flask
   
 
 - ❓ Ask me about anything related to CTFs  
@@ -59,11 +59,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4bh1n4vkum4r&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=noob-abhinav&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bh1n4vkum4r&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noob-abhinav&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -74,7 +74,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=4bh1n4vkum4r&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=noob-abhinav&&style=flat-square)  
   
 
 <br/>  
