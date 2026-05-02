@@ -24,7 +24,7 @@
 - ❓ Ask me about anything related to CTFs  
   
 
-- ⚡ Fun fact: Nothing  
+- ⚡ Fun fact: I'm a boring person
 
 
 </td><td valign="top" width="50%">
